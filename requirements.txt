@@ -1,0 +1,15 @@
+# Approximate dependencies, unpinned; original Colab environment not preserved
+praw
+requests
+pandas
+numpy
+matplotlib
+seaborn
+spacy
+nltk
+vaderSentiment
+NRCLex
+networkx
+wordcloud
+textblob
+# Requires spaCy model en_core_web_sm and NLTK/TextBlob corpora
