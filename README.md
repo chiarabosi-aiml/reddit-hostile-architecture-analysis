@@ -34,7 +34,12 @@ The notebook was originally developed in **Google Colab** and uses a specific Go
 
 ## Authorship and contributions
 
-Developed jointly for university coursework by **Chiara Bosi and Francesca Chite**, as both worked collaboratively across the project.
+This project was jointly developed by:
+
+- **Chiara Bosi** — [@chiarabosi-aiml](https://github.com/chiarabosi-aiml)
+- **Francesca Chite** — [@francescachite](https://github.com/francescachite)
+
+Both authors collaborated throughout the project, contributing to its development, analysis, and documentation.
 
 ## Attribution and reuse
 
